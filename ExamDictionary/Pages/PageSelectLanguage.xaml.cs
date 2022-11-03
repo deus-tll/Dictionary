@@ -68,7 +68,7 @@ namespace ExamDictionary.Pages
 			}
 
 			
-			_frame.Content = new PageListOfWords(_frame);
+			_frame.Content = new PageListOfWords();
 		}
 
 
